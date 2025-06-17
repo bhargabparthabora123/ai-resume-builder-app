@@ -1,5 +1,5 @@
 import React, { use } from 'react'
-import AddResume from './components/addResume'
+import AddResume from './components/AddResume'
 import GlobalApi from './../../service/GlobalApi'
 import { useUser } from '@clerk/clerk-react'
 import { useEffect } from 'react'
